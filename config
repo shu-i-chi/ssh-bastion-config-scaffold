@@ -1,0 +1,5 @@
+# # Development Host (Amazon Linux 2)
+# Host devel
+#   HostName 192.168.1.1
+#   User ec2-user
+#   IdentityFile ~/.ssh/devel.pem

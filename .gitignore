@@ -1,0 +1,6 @@
+# Ignore SSH keys.
+authorized_keys
+*.pem
+
+# Ignore known_hosts, known_hosts.old
+known_hosts*
